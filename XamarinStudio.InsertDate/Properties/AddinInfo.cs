@@ -13,3 +13,7 @@ using Mono.Addins.Description;
 [assembly: AddinDescription("XamarinStudio.InsertDate")]
 [assembly: AddinAuthor("wk")]
 
+
+[assembly: AddinDependency("::MonoDevelop.Core", MonoDevelop.BuildInfo.Version)]
+[assembly: AddinDependency("::MonoDevelop.Ide", MonoDevelop.BuildInfo.Version)]
+

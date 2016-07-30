@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ExtensionModel>
 	<Extension path="/MonoDevelop/Ide/Commands/Edit">
-		<Command id="XamarinStudio.InsertDate.DateInserterCommands.InsertDate"
+		<Command id="XamarinStudio.InsertDate.DateInsertCommands.InsertDate"
 			_label="Insert Date"
 			defaultHandler = "XamarinStudio.InsertDate.InsertDateHandler"/>
 	</Extension>
